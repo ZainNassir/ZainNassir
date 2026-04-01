@@ -1,10 +1,11 @@
 <table>
   <tr>
-      <h2>Hi, I'm Zain aka @CodingZain 👋</h2>
+      <h2>Hi, I'm Zain  👋</h2>
       <p>
-        <strong>Aspiring software developer</strong> I'm now building projects and working toward my first developer role.<br>
-        Have a look at my little projects and let me know if you like any of them :) <br><br>
-        <em>Stay Coding</em>
+        <strong>Aspiring software developer</strong> currently studying a Computer Science Masters Conversion at Queen Mary’s University.  
+        While doing that, I’m also a full-time flight attendant with British Airways (an airline I’m beyond proud to work for) and I’m building small projects that I love sharing on my GitHub.  
+        I’m focused on developing projects and working toward my first developer role.  
+        Check out my projects and let me know what you think! 🙂
       </p>
   </tr>
 </table>
