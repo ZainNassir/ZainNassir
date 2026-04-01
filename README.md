@@ -8,7 +8,7 @@
       <p>
         <strong>Aspiring software developer</strong> I'm now building projects and working toward my first developer role.<br>
         Have a look at my little projects and let me know if you like any of them :) <br><br>
-        <em>Stay Coding </em>
+        <em>Stay Coding</em>
       </p>
     </td>
   </tr>
