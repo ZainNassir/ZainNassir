@@ -16,7 +16,7 @@ On my coding journey, I’m focused on developing projects and working toward my
   <!-- LEFT SIDE CONTENT -->
   <div style="flex: 1;">
 
-  <h2><strong>🏆 My Accomplishments</strong></h2>
+  <h1><strong>🏆 My Accomplishments</strong></h1>
 
   <ul>
     <li>🎓 <strong>Computer Science MSc</strong> (in progress)</li>
