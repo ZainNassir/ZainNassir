@@ -7,8 +7,7 @@
 
 <p>
 I'm currently studying a <strong>Computer Science Masters Conversion at Queen Mary’s University.</strong>
-Alongside that, I’m also a full-time flight attendant with British Airways, an airline I’m beyond proud to work for.<br>
-On my coding journey, I’m focused on developing projects and working toward my first developer role.
+Alongside that, I’m also a full-time flight attendant with British Airways, an airline I’m beyond proud to work for. On my coding journey, I’m focused on developing projects and working toward my first developer role.
 </p><br>
 
 <div style="display: flex; align-items: flex-start;">
