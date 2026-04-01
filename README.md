@@ -13,14 +13,11 @@
 
 
        
-  - In 2023, I completed a Software Engineering Bootcamp with Firebrand Training, certificate attached below. This bootcamp taught me how to code with Python.<br><br>
+  - [Software Engineering Bootcamp] (https://github.com/user-attachments/files/26413610/Zainab.Nassir.-.Completion.Certificate.copy.pdf) with Firebrand Training, 2023. This bootcamp taught me how to code with Python.<br><br>
   - Computer Science Msc (work in progress) <br>
         Check out my projects and let me know what you think! 🙂
       </p>
-      <p>
-        [📄 Python Software Engineer Completion Certificate](https://github.com/user-attachments/files/26413610/Zainab.Nassir.-.Completion.Certificate.copy.pdf)
-      </p>
-        
+
 <strong> 📬 Reach out to me </strong>
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/codingZain/)
