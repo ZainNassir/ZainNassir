@@ -1,6 +1,6 @@
 <table>
   <tr>
-      <h2>Hi, I'm Zain  👋</h2>
+      <h4>Hi, I'm Zain  👋</h4>
       <p>
         <strong>Aspiring software developer</strong>
         <br> I'm currently studying a Computer Science Masters Conversion at Queen Mary’s University.  
