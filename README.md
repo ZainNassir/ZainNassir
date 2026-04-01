@@ -17,8 +17,8 @@
         
 ## 📬 Reach out to me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK/)
-- ✉️ [Email](mailto:your@email.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/codingZain/)
+- ✉️ [Email](mailto:zinab-nosa@hotmail.com)
 
       </p>
     </td>
