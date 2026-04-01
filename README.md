@@ -13,10 +13,9 @@ On my coding journey, I’m focused on developing projects and working toward my
 
 <div style="display: flex; align-items: flex-start;">
 
-  <!-- LEFT SIDE CONTENT -->
   <div style="flex: 1;">
 
-  <h4><strong>🏆 My Accomplishments</strong></h4>
+  <h4><strong>🏆 My Accomplishments</strong></h4> <br> <br>
 
   <ul>
     <li>🎓 <strong>Computer Science MSc</strong> (in progress)</li>
@@ -27,7 +26,6 @@ On my coding journey, I’m focused on developing projects and working toward my
 
   </div>
 
-  <!-- RIGHT SIDE IMAGE -->
   <img 
     src="https://github.com/user-attachments/assets/f49e83c6-7ab8-45ef-9815-5785d5caf259"
     alt="Certificate"
