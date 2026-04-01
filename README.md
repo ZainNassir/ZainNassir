@@ -1,3 +1,4 @@
+<div style="border: 2px solid #e5e5e5; padding: 20px; border-radius: 12px;">
 <table>
   <tr>
     <td>
@@ -44,4 +45,5 @@ Alongside that, I’m also a full-time flight attendant with British Airways, an
     </td>
   </tr>
 </table>
+</div>
 
