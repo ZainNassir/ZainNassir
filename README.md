@@ -13,7 +13,8 @@
 
 
        
-  - [Software Engineering Bootcamp] (https://github.com/user-attachments/files/26413610/Zainab.Nassir.-.Completion.Certificate.copy.pdf) with Firebrand Training, 2023. This bootcamp taught me how to code with Python.<br><br>
+  - [Python Software Engineering Bootcamp with Firebrand Training]![Zainab Nassir - Completion Certificate  copy pdf](https://github.com/user-attachments/assets/6b591f64-6f4c-4198-bb47-575ad97b5e32)
+
   - Computer Science Msc (work in progress) <br>
         Check out my projects and let me know what you think! 🙂
       </p>
