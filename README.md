@@ -16,8 +16,6 @@
   </tr>
 </table>
 
-![ZAYN-Passport-Pic](https://github.com/user-attachments/assets/79042c65-8536-450b-90f9-2fdeaf4dc2f1)
-
 
 
 I'm Zayn aka CodingZain, an aspiring software developer building real-world projects and working toward my first developer role.
