@@ -8,16 +8,32 @@
        Alongside that, I’m also a full-time flight attendant with British Airways, an airline I’m beyond proud to work for.<br><br>
         On my coding journey, I’m focused on developing projects and working toward my first developer role.<br>
 
-## 🏆 **My Accomplishments**
----
+  <div style="display: flex; align-items: flex-start;">
 
+  <!-- RIGHT SIDE IMAGE -->
+  <img src="YOUR_IMAGE_LINK_HERE" 
+       alt="Certificate" 
+       width="200" 
+       style="margin-left: 20px; border-radius: 8px;" />
 
-       
+  <!-- LEFT SIDE CONTENT -->
+  <div>
+
+  ## **🏆 My Accomplishments**
+        
   - [Python Software Engineering Bootcamp with Firebrand Training]![Zainab Nassir - Completion Certificate  copy pdf](https://github.com/user-attachments/assets/6b591f64-6f4c-4198-bb47-575ad97b5e32)
 
   - Computer Science Msc (work in progress) <br>
-        Check out my projects and let me know what you think! 🙂
       </p>
+
+  </div>
+
+</div>
+
+   Check out my projects and let me know what you think! 🙂
+
+
+
 
 <strong> 📬 Reach out to me </strong>
 
