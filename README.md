@@ -13,7 +13,8 @@
 
 
        
-  In 2023, I completed a Software Engineering Bootcamp with Firebrand Training, certificate attached below. This bootcamp taught me how to code with Python.<br>
+  > In 2023, I completed a Software Engineering Bootcamp with Firebrand Training, certificate attached below. This bootcamp taught me how to code with Python.<br>
+  > Computer Science Msc (work in progress) <br>
         Check out my projects and let me know what you think! 🙂
       </p>
       <p>
