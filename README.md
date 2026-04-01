@@ -11,7 +11,8 @@
   <div style="display: flex; align-items: flex-start;">
 
   <!-- RIGHT SIDE IMAGE -->
-  <img src="YOUR_IMAGE_LINK_HERE" 
+
+  <img src="![Zainab Nassir - Completion Certificate  copy pdf](https://github.com/user-attachments/assets/f49e83c6-7ab8-45ef-9815-5785d5caf259)" 
        alt="Certificate" 
        width="200" 
        style="margin-left: 20px; border-radius: 8px;" />
