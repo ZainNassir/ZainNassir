@@ -1,12 +1,7 @@
-## Hi there 👋
-
-![ZAYN-Passport-Pic](https://github.com/user-attachments/assets/748b71ad-4ba6-42bb-a6d3-242a5c413f25)
-
-
 <table>
   <tr>
     <td width="180">
-      <img src="ZAYN-Passport-Pic" width="140" style="border-radius: 50%;" />
+      <img src="https://github.com/user-attachments/assets/748b71ad-4ba6-42bb-a6d3-242a5c413f25" width="140" style="border-radius: 50%;" />
     </td>
     <td>
       <h2>Hi, I'm Zain 👋</h2>
