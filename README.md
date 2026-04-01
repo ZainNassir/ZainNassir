@@ -5,9 +5,10 @@
       <h3><strong>Aspiring software developer</strong></h3>
       <p>
         I'm currently studying a <strong>Computer Science Masters Conversion at Queen Mary’s University.</strong><br><br>
-        In 2023, I completed a Software Engineering Bootcamp with Firebrand Training, certificate attached below. This bootcamp taught me how to code with Python.<br>
        Alongside that, I’m also a full-time flight attendant with British Airways (an airline I’m beyond proud to work for) and I’m building small projects that I love sharing on my GitHub.<br>
         I’m focused on developing projects and working toward my first developer role.<br>
+        ## 🎯 My Accomplishments
+        In 2023, I completed a Software Engineering Bootcamp with Firebrand Training, certificate attached below. This bootcamp taught me how to code with Python.<br>
         Check out my projects and let me know what you think! 🙂
       </p>
       <p>
