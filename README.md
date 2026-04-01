@@ -4,7 +4,7 @@
       <img src="https://github.com/user-attachments/assets/748b71ad-4ba6-42bb-a6d3-242a5c413f25" width="140" style="border-radius: 50%;" />
     </td>
     <td>
-      <h2>Hi, I'm Zayn aka CodingZain 👋</h2>
+      <h2>Hi, I'm Zain aka @CodingZain 👋</h2>
       <p>
         <strong>Aspiring software developer</strong> building real-world projects and working toward my first developer role.<br>
         Have a look at my little projects and let me know if you like any of them :) <br><br>
