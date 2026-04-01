@@ -20,6 +20,7 @@ On my coding journey, I’m focused on developing projects and working toward my
 
   <ul>
     <li>🎓 <strong>Computer Science MSc</strong> (in progress)</li>
+    <li>💻 <strong> Python Software Engineer Bootcamp with Firebrand Training - Certificate below.
     <li>💻 <strong>Building personal projects</strong> to strengthen my portfolio</li>
     <li>✈️ <strong>Full‑time British Airways crew member</strong> balancing work + study</li>
   </ul>
