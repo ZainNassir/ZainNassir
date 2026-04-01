@@ -21,8 +21,6 @@
   <div>
 
   ## **🏆 My Accomplishments**
-        
-  - [Python Software Engineering Bootcamp with Firebrand Training]![Zainab Nassir - Completion Certificate  copy pdf](https://github.com/user-attachments/assets/6b591f64-6f4c-4198-bb47-575ad97b5e32)
 
   - Computer Science Msc (work in progress) <br>
       </p>
