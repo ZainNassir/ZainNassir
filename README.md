@@ -7,7 +7,7 @@
 <h3><strong>Aspiring software developer</strong></h3>
 
 <p>
-I'm a masters student at Queen Mary's University, studying <strong>Computer Science MSc.</strong>
+I'm a master's student at Queen Mary University of London (QMUL), studying <strong>Computer Science MSc.</strong>
 Alongside that, I’m also a flight attendant with British Airways, an airline I’m beyond proud to work for. On my coding journey, I’m focused on developing projects that will lead me toward my first developer role.
 </p><br>
 
@@ -18,8 +18,8 @@ Alongside that, I’m also a flight attendant with British Airways, an airline I
   <h4><strong>🏆 My Accomplishments</strong></h4><br>
 
   <ul>
-    <li>🎓 <strong>Computer Science MSc</strong> (in progress)</li>
     <li>💻 <strong> Python Software Engineer Bootcamp with Firebrand Training - Certificate below.
+    <li>🎓 <strong>Computer Science MSc</strong> (in progress)</li>
     <li>💻 <strong>Building personal projects</strong> to strengthen my portfolio</li>
     <li>✈️ <strong>Full‑time British Airways crew member</strong> balancing work + study</li>
   </ul>
