@@ -3,10 +3,12 @@
       <h1>Hi, I'm Zain  👋</h1>
       <p>
         <h3><strong>Aspiring software developer</strong> </h3>
-        <br> I'm currently studying a Computer Science Masters Conversion at Queen Mary’s University.  
+        <br> I'm currently studying a <strong> Computer Science Masters Conversion at Queen Mary’s University. </strong>  <br>
+        In 2023, I completed a Software Engineering Bootcamp with Firebrand Training, certificate below. This bootcamp taught me how to code with Python.
         <br> While doing that, I’m also a full-time flight attendant with British Airways (an airline I’m beyond proud to work for) and I’m building small projects that I love sharing on my GitHub.  
         I’m focused on developing projects and working toward my first developer role.  
-        Check out my projects and let me know what you think! 🙂
+        Check out my projects and let me know what you think! 🙂[Zainab Nassir - Completion Certificate  copy.pdf](https://github.com/user-attachments/files/26413571/Zainab.Nassir.-.Completion.Certificate.copy.pdf)
+
       </p>
   </tr>
 </table>
