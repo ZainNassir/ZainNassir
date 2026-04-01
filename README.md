@@ -11,12 +11,16 @@
         Check out my projects and let me know what you think! 🙂
       </p>
       <p>
-        [📄 Zainab Nassir - Completion Certificate](https://github.com/user-attachments/files/26413610/Zainab.Nassir.-.Completion.Certificate.copy.pdf)
+        [📄 Python Software Engineer Completion Certificate](https://github.com/user-attachments/files/26413610/Zainab.Nassir.-.Completion.Certificate.copy.pdf)
+      </p>
+      <p>
+        Reach out to me:  
+        [LinkedIn](https://www.linkedin.com/in/CodingZain/) | 
+        [Email](mailto:zinab-nosa@hotmail.com)
       </p>
     </td>
   </tr>
 </table>
-
 
 <!--
 **ZainNassir/ZainNassir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
