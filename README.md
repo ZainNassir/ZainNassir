@@ -1,7 +1,6 @@
 <table>
   <tr>
     <td width="300">
-      <img src="https://github.com/user-attachments/assets/748b71ad-4ba6-42bb-a6d3-242a5c413f25" width="300" style="border-radius: 50%;" />
     </td>
     <td>
       <h2>Hi, I'm Zain aka @CodingZain 👋</h2>
