@@ -15,7 +15,7 @@
       </p>
       <p>
         
-## 📬 Reach out to me
+<strong> 📬 Reach out to me </strong>
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/codingZain/)
 - ✉️ [Email](mailto:zinab-nosa@hotmail.com)
