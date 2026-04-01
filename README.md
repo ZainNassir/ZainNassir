@@ -14,8 +14,12 @@
         [📄 Python Software Engineer Completion Certificate](https://github.com/user-attachments/files/26413610/Zainab.Nassir.-.Completion.Certificate.copy.pdf)
       </p>
       <p>
-Reach out to me:  
-[🔗 LinkedIn](https://www.linkedin.com/in/CodingZain/) | [📧 Email](mailto:zinab-nosa@hotmail.com)
+        
+## 📬 Reach out to me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK/)
+- ✉️ [Email](mailto:your@email.com)
+
       </p>
     </td>
   </tr>
