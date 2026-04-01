@@ -9,13 +9,13 @@
 I'm currently studying a <strong>Computer Science Masters Conversion at Queen Mary’s University.</strong><br><br>
 Alongside that, I’m also a full-time flight attendant with British Airways, an airline I’m beyond proud to work for.<br><br>
 On my coding journey, I’m focused on developing projects and working toward my first developer role.
-</p>
+</p><br>
 
 <div style="display: flex; align-items: flex-start;">
 
   <div style="flex: 1;">
 
-  <h4><strong>🏆 My Accomplishments</strong></h4> <br> <br>
+  <h4><strong>🏆 My Accomplishments</strong></h4><br>
 
   <ul>
     <li>🎓 <strong>Computer Science MSc</strong> (in progress)</li>
