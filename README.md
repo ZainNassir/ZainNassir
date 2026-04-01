@@ -7,14 +7,15 @@
         I'm currently studying a <strong>Computer Science Masters Conversion at Queen Mary’s University.</strong><br><br>
        Alongside that, I’m also a full-time flight attendant with British Airways, an airline I’m beyond proud to work for.<br>
         On my coding journey, I’m focused on developing projects and working toward my first developer role.<br>
-## **🏆 Accomplishments**
+
+## 🏆 **MY ACCOMPLISHMENTS**
+
         In 2023, I completed a Software Engineering Bootcamp with Firebrand Training, certificate attached below. This bootcamp taught me how to code with Python.<br>
         Check out my projects and let me know what you think! 🙂
       </p>
       <p>
         [📄 Python Software Engineer Completion Certificate](https://github.com/user-attachments/files/26413610/Zainab.Nassir.-.Completion.Certificate.copy.pdf)
       </p>
-      <p>
         
 <strong> 📬 Reach out to me </strong>
 
