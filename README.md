@@ -3,7 +3,7 @@
   <tr>
     <td>
 
-<h1>Hi, I'm Zain 👋</h1>
+<h1>Hi, I'm Zayn 👋</h1>
 <h3><strong>Aspiring software developer</strong></h3>
 
 <p>
